@@ -27,8 +27,8 @@ win10 + python3.7.5
     > 其他一般的像`requests`等第三方库如有缺失请自行安装  
 
     请参照网上的教程**安装mitmproxy证书**，不然抓不到https包！！！  
-    请参照网上的教程**安装mitmproxy证书**，不然抓不到https包！  
-    请参照网上的教程**安装mitmproxy证书**，不然抓不到https包！  
+    请参照网上的教程**安装mitmproxy证书**，不然抓不到https包！！！  
+    请参照网上的教程**安装mitmproxy证书**，不然抓不到https包！！！  
 
 
 
