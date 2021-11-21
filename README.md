@@ -8,6 +8,12 @@ win10 + python3.7.5
 
 
 
+## 其他版本  
+推荐使用油猴脚本版，有可视化界面，操作更方便。  
+[地址](https://greasyfork.org/zh-CN/scripts/435841-%E7%BD%91%E6%98%93%E4%BA%91%E8%AF%BE%E5%A0%82%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD)
+
+
+
 ## 使用方法  
 
 
